@@ -1,0 +1,41 @@
+{
+  "name": "alc-onboarding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node "
+  },
+  "dependencies": {
+    "async": "^2.0.1",
+    "aws-cli-js": "^2.0.2",
+    "aws-sdk": "^2.5.5",
+    "csv-parser": "^1.11.0",
+    "dotenv": "^2.0.0",
+    "jdbc": "^0.4.0",
+    "excel-parser": "^0.2.2",
+    "log-timestamp": "latest",
+    "moment": "^2.17.1",
+    "node-xlsx": "^0.7.4",
+    "pg": "^6.1.0",
+    "pg-pool": "latest",
+    "presto-client": "^0.1.0",
+    "promise-polyfill": "^6.0.2",
+    "s3": "^4.4.0",
+    "sleep": "^3.0.1",
+    "tabula-js": "^1.0.1",
+    "xlsx-extract": "0.0.14",
+    "csv": "1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALC-Adam12/alc-onboarding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALC-Adam12/alc-onboarding/issues"
+  },
+  "homepage": "https://github.com/ALC-Adam12/alc-onboarding#readme"
+}
+
